@@ -1,0 +1,31 @@
+title: 黄郅钦
+profile_img: /assets/img/me.png
+icon_img: /assets/img/icon.webp
+
+name: "黄郅钦<br>Huang Zhiqin"
+job: "辽宁工业大学讲师<br>Lecturer of Liaoning University of Technology"
+
+phone_number: 
+address: 
+email: 
+linkedin_username: 
+github_username: 
+instagram_username: 
+twitter_username: 
+facebook_username: 
+youtube_username: 
+blog_url: 
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
