@@ -47,7 +47,8 @@ The research direction is multi-agent task planning
 Served as a reviewer for the journal *Ocean Engineering*.
 
 ## License
-Copyright © 2024 | Yankos. This theme is available as open source under the terms of the [MIT License](https://opensource.org/license/mit/).  
-Forked from [byanko55/jekyll-professional-resume](https://github.com/byanko55/jekyll-professional-resume)
+Copyright © 2024 | Yankos.  
+Forked from [byanko55/jekyll-professional-resume](https://github.com/byanko55/jekyll-professional-resume)  
+This theme is available as open source under the terms of the [MIT License](https://opensource.org/license/mit/).
 
 Modified version Copyright © 2026 | Huang Zhiqin
