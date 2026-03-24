@@ -1,0 +1,9 @@
+subject: 论文著作 &nbsp; Publications
+listing-order: 3
+icon: "/assets/img/flask.svg"
+contents:
+  - title: 期刊论文 &nbsp; Journal Paper
+    ref: 
+      - "[1] Xue Kai, **Huang Zhiqin**, Wang Ping, et al.“[A Low-Complexity Path-Planning Algorithm for Multiple USVs in Task Planning Based on the Visibility Graph Method](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001453153400001)” [J]. Journal of Marine Science and Engineering, 2025, 13(3)."
+      - "[2] **Huang Zhiqin**, Xue Kai, Wang Ping, et al. “[A nested-ring exact algorithm for simple basic group communication topology optimization in Multi-USV systems](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:000899842000002)” [J]. Ocean Engineering, 2022, 266."
+      - "[3] Xue Kai,  **Huang Zhiqin**, Wang Ping, et al.“[An Exact Algorithm for Task Allocation of Multiple Unmanned Surface Vehicles with Minimum Task Time](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:000689365100001)” [J]. Journal of Marine Science and Engineering, 2021, 9(8)."

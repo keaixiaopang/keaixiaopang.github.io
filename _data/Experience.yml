@@ -1,0 +1,12 @@
+subject: 教育经历 &nbsp; Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: 哈尔滨工程大学，机械工程博士 <br> Harbin Engineering University, PhD in Mechanical Engineering
+    description:
+    - 研究方向：多无人船任务规划 <br> The research direction is multi-USV task planning
+    date: Sep. 2016 - Jun. 2025
+  - title: 东北大学，机械工程及自动化专业学士 <br> Northeastern University, BA in Mechanical Engineering and Automation
+    description:
+    - ‌大学英语六级 &nbsp; 528分 &nbsp; CET6‌  <br> 计算机水平三级 &nbsp; NCRE3
+    date: Sep. 2012 - Jun. 2016

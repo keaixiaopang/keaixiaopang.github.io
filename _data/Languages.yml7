@@ -1,0 +1,8 @@
+subject: 工作经历 &nbsp; Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: 辽宁工业大学讲师 &nbsp; Lecturer of Liaoning University of Technology
+    description:
+    - 研究方向：多智能体任务规划  <br> The research direction is multi-agent task planning
+    date: Oct. 2025 - Ongoing
